@@ -177,16 +177,7 @@ DATABASES = {
 DATABASE_ROUTERS = (
     'django_tenants.routers.TenantSyncRouter',
 )
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'ullnyfmu',
-#         'USER': 'ullnyfmu',
-#         'PASSWORD': 'tS28s2nUFIMUmrrWZOcjFWnUY4xNLyxn',
-#         'HOST': 'tiny.db.elephantsql.com',
-        
-#     }
-# } 
+ 
 
 
 

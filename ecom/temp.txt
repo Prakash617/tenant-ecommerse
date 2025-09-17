@@ -1,0 +1,9 @@
+ # tags_data = validated_data.pop("tags")
+    #     try:
+    #         product_category = ProductCategories.objects.get(category_name = product_category_data["category_name"] )
+    #     except:
+    #         product_category = ProductCategories.objects.create(**product_category_data)
+            
+    #     product = Product.objects.create(**validated_data,product_category = product_category)
+        
+        
